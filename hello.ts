@@ -1,7 +1,7 @@
 //.jsでも.tsでも動作する
-function sayHello (firstName) {
+function sayHello(firstName) {
   console.log('Hello, ' + firstName)
 }
 
-let fname = "kugyu10"
+let fname = 'kugyu10'
 sayHello(fname)
